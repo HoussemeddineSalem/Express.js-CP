@@ -1,0 +1,40 @@
+body {
+  background-image: url(../img/donvito.webp);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: relative;
+}
+
+.test {
+  width: 50%;
+  color: #f1f1f1; /* Grey text */
+
+  border-radius: 10px;
+  text-align: center;
+  position: absolute;
+  position: absolute;
+  top: 80px;
+  left: 16px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
